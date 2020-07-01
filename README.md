@@ -1,6 +1,6 @@
 # Data_Science_Course_iLong
 
-Here's the course material for iLong, the top long-term care service web platform in Taiwan. The course members are from different position, including software engineer, PM, marketing and operation.
+Here's the course material for iLong, the top long-term care service web platform in Taiwan. The course students are from different position:  software engineer, PM, marketing and operation.
 
 # About the course
 The materials are mostly from the course "Data Mining"
